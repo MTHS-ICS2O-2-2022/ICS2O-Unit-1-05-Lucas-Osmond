@@ -4,12 +4,12 @@
 */
 
 .mdl-ripple {
-  backround: #000;
+  background: #000;
   opacity: 0.001;
 }
 
 .mdl-layout__header-row {
-  justify: content;
+  justify-content: content;
   padding: 0;
 }
 
