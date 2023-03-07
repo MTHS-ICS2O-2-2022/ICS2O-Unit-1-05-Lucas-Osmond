@@ -28,3 +28,9 @@
 .body {
   background-color: aquamarine;
 }
+
+.mdl-layout-title {
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
+}
